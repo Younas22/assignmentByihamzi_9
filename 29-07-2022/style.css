@@ -1,0 +1,12 @@
+body{
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: rgb(132, 100, 58);
+}
+.top{
+    background-color: blue;
+    color: aliceblue;
+}
