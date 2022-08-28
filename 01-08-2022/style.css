@@ -1,0 +1,27 @@
+header{
+    background-color: antiquewhite;
+}
+
+section.my-articles{
+    background-color: aqua;
+}
+/*{
+    color: blue;
+}
+*/
+
+header p{
+    color: rgb(225, 196, 255);
+}
+
+header ul a {
+    color:brown
+}
+
+section.my-articles > h2{
+    color: blue;
+}
+
+h2+p{
+    color: orange;
+}

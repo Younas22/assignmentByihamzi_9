@@ -1,0 +1,7 @@
+.box{
+    box-sizing: content-box;
+    background-color: antiquewhite;
+    border: 3px solid brown;
+    width: 500px;
+    padding: 50px;
+}

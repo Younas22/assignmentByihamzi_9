@@ -1,0 +1,20 @@
+/* inline>id>class>element 
+*/
+
+h1{
+    color: blueviolet;
+}
+
+
+
+#hid
+{
+    color: black;
+}
+
+h1.cls2{
+    color: beige;
+}
+.cls{
+    color: blue;
+}
